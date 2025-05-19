@@ -113,5 +113,4 @@ MIT License – free to use, modify, and build upon.
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
-[GitHub](https://github.com/Roman-Bukhovko) • [Portfolio](https://yourwebsite.com)
+**Roman Bukhovko**
